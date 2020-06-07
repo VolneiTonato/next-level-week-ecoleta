@@ -3,10 +3,10 @@ import './App.css';
 
 import Routes from './routes';
 
-function App() {
+const App = () => {
   return (
     <Routes />
-  );
+  )
 }
 
-export default App;
+export default App
